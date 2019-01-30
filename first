@@ -1,0 +1,13 @@
+#include <string>
+#include <iostream>
+
+string S0;
+string S1 = "hello";
+string S2 = S1+"World";
+
+//printing
+
+cout << "S0 = " << S0<< endl;
+cout << "S1 = " << S1<< endl;
+cout << " the 4th character of S1 is " << S1 [3] << endl;
+cout << "S1 has" << S1.size() << "characters"<< endl; 

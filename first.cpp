@@ -1,10 +1,8 @@
-using namespace std
+using namespace std;
 #include <string>
 #include <iostream>
 
-int main()
-{
-
+int main(){
 string s0;
 string s1 = "hello";
 string s2 = s1+"World";
